@@ -4,7 +4,7 @@
 
 ## Education						       		
 - M.S., Computer Engineering (Bioinformatics) | Sharif University of Technology (_December 20223_)	 			        		
-- B.S., Computer Engineering | Semnan University (_May 2020_)
+- B.S., Computer Engineering | Semnan University (_December 2020_)
 
 ## Interests
 - The application of deep learning in Bioinformatics, NLP, and text analysis
