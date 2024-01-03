@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R, C++, Linux, MATLAB
 
 ## Education						       		
-- M.S., Computer Engineering (Bioinformatics) | Sharif University of Technology (_December 20223_)	 			        		
+- M.S., Computer Engineering (Bioinformatics) | Sharif University of Technology (_December 2023_)	 			        		
 - B.S., Computer Engineering | Semnan University (_December 2020_)
 
 ## Interests
